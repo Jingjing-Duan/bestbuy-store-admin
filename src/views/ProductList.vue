@@ -213,11 +213,8 @@ onMounted(() => {
 <style scoped>
 .page-title {
   font-size: 26px;
-  font-weight: 700;
-  color: #fff;
-  background: #000;
-  padding: 14px 18px;
-  letter-spacing: 1px;
+  margin-bottom: 16px;
+  color: #111;
 }
 
 .form-card,

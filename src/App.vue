@@ -25,7 +25,8 @@
 
   .topbar h1 {
     margin: 0;
-    font-size: 22px;
+    font-size: 26px;
+    font-weight: 700;
   }
 
   .main-content {
